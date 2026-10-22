@@ -53,6 +53,11 @@ F1 手柄 ═经典蓝牙(NS档)═> ESP32 发射板(Bluepad32)
 - 自适应扳机效果不转发(F1 无该硬件),光条/玩家灯不实现(直接忽略)
 - MW4 的"武器控制(Weapon Control)"体感模式在部分平台存在反转 bug(真 Switch 2 手柄同样中招),与本转译无关
 
+## 贡献者
+
+- **[JoonSumisu](https://github.com/JoonSumisu)** — 硬件搭建、手感校准、游戏实测,以及贡献一块 S3 的烧板学费 :)
+- **GLM-5.3**(ZCode AI 助手)— 固件开发、DS5 协议调研、全链路调试(v5.0 → v5.4b 全版本)与本文档
+
 ## 致谢
 
 - [Bluepad32](https://github.com/ricardoquesada/bluepad32) —— 发射板蓝牙手柄主机栈
