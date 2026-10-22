@@ -1,3 +1,5 @@
+简体中文 | **[English](README.en.md)**
+
 # f1-ds5-bridge
 
 把 NS 档(经典蓝牙)游戏手柄的陀螺仪转译成 PC 上的 **DualSense(PS5 手柄)**——让 COD/MW4 等原生支持 DS5 体感瞄准的游戏,用你顺手的手柄打 gyro aiming。
