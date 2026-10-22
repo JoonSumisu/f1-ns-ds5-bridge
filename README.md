@@ -66,3 +66,9 @@ F1 手柄 ═经典蓝牙(NS档)═> ESP32 发射板(Bluepad32)
 - Espressif TinyUSB、[SDL hidapi](https://github.com/libsdl-org/SDL)、Linux `hid-playstation` —— DS5 报文语义与刻度的参照实现
 
 版本:v5.4b-final(2026-10)
+
+## 赏杯咖啡
+
+项目对你有帮助的话,欢迎打赏支持,补充 AI token 消耗 ☕
+
+<p align="center"><img src="assets/wechat_pay.jpg" width="220" alt="微信收款码"></p>

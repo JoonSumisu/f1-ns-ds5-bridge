@@ -68,3 +68,9 @@ F1 gamepad ═Classic BT (NS mode)═> ESP32 TX board (Bluepad32)
 - Espressif TinyUSB, [SDL hidapi](https://github.com/libsdl-org/SDL), Linux `hid-playstation` — reference implementations for DS5 report semantics and scales
 
 Version: v5.4b-final (2026-10)
+
+## Buy Me a Coffee
+
+If this project helps you, a small tip is welcome — it fuels the AI tokens that wrote the firmware ☕
+
+<p align="center"><img src="assets/wechat_pay.jpg" width="220" alt="WeChat Pay QR"></p>
